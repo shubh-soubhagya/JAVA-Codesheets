@@ -4,7 +4,7 @@ Welcome to the JAVA-Codesheets repository! Here you'll find a comprehensive coll
 
 ## How to Use
 
-1. Clone the repository to your local machine: 
+1. Clone the repository to your local machine: https://github.com/shubh-soubhagya/JAVA-Codesheets
 2. Navigate to the directory containing the Java program you're interested in.
 3. Compile the Java file using the Java compiler ('javac'): ``` javac JavaFile.java ```
 4. Run the compiled Java program using the Java Virtual Machine ('java'): ``` java JavaFile ```
